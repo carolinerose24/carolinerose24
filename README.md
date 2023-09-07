@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on becoming a data scientist
+- 🌱 I’m currently learning how to use python and r for data science
+  
