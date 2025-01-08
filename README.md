@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on becoming a data scientist
-- 🌱 I’m currently learning how to use python and r for data science
+- 🔭 I’m currently working on social media post valuation in python
+- 🌱 I’m currently learning how to use tableau for cool visualizations
   
